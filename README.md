@@ -2,9 +2,9 @@
 >***将图像进行人脸对齐***
 
 ## 说明
-```bash
-该项目依赖pytorch框架，具体环境依赖、安装说明以及教程见INSTALL.md
-```
+
+该项目依赖pytorch框架，具体环境依赖、安装说明以及教程见[INSTALL.md](./INSTALL.md)
+
 ## face_alignment
 ```bash
 代码均在该目录下
